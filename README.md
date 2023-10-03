@@ -21,6 +21,7 @@ ID:789 Name: Bob Age: 21
 Create a `Vehicle` class to store common information about a vehicle, such as the number of wheels, color, fuel type, and max speed. Extend the class to include three derived classes: `Truck`, `Car`, and `Van`. Each derived class should have personalized fields (e.g., `size_of_containers`, `number_of_doors`, `no_of_boxes`) and a utility method to print complete vehicle information.
 
 ### Sample Output
+```
 Truck Information:
 Number of Wheels: 18
 Color: Blue
@@ -41,6 +42,7 @@ Color: White
 Fuel Type: Gasoline
 Max Speed: 80 mph
 Number of Boxes: 100
+```
 
 ## Exercise 3: Employee and Derived Classes
 
